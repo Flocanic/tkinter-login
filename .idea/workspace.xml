@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17c0c27b-0464-432b-ba80-1325cd9c5d95" name="Changes" comment="Initial commit (i think)">
+    <list default="true" id="17c0c27b-0464-432b-ba80-1325cd9c5d95" name="Changes" comment="Updated SQL hash update">
       <change afterPath="$PROJECT_DIR$/.idea/Übung#1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -125,11 +125,20 @@
       <option name="project" value="LOCAL" />
       <updated>1763018647647</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated SQL hash update">
+      <option name="closed" value="true" />
+      <created>1763022200333</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763022200333</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit (i think)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit (i think)" />
+    <MESSAGE value="Updated SQL hash update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated SQL hash update" />
   </component>
 </project>
